@@ -1,4 +1,4 @@
-module gldeng/aelf-substreams-kafka-sink
+module github.com/gldeng/aelf-substreams-kafka-sink
 
 go 1.23.4
 
